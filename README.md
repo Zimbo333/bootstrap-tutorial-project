@@ -1,4 +1,3 @@
-# bootstrap-tutorial-project
 
 ## How to Contribute and make pull request
 
